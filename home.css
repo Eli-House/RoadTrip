@@ -1,0 +1,13 @@
+img {
+    width: 160vh;
+    border: 5px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text {
+    font-size: 80px;
+    margin: 20px;
+    text-align: center;
+    background-color:#63CAB3;
+}
