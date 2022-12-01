@@ -2,6 +2,7 @@ img {
     width: 160vh;
     border: 5px solid black;
     display: block;
+    margin-top: 80px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -10,4 +11,15 @@ img {
     margin: 20px;
     text-align: center;
     background-color:#63CAB3;
+}
+.footer .card-body{
+    margin-top: 50px;
+    background-color: #006B54; 
+    margin: 0;
+}
+.footer .card h5{
+    color: white;
+}
+.footer .card-body p{
+    color: white;
 }
