@@ -21,4 +21,25 @@
 .footer .card-body p{
     color: white;
 }
+.card-footer{
+    background-color: #003B2E
+}
+
+.card-body{
+    outline-color: #003B2E;
+    outline-style: solid;
+    outline-width: 2px;
+}
+
+.carousel-inner{
+    border-radius: 15%;
+    object-fit: scale-down;
+}
+
+.navbar{
+    background-color: #003B2E;
+    color: white;
+}
+
+
 
