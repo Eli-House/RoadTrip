@@ -1,12 +1,10 @@
 .jumbotron{
     margin-top: 50px;
-    background-color: #006B54; 
+    background-color: #006B54;
+    color: white; 
 }
 
-.jumbotron h1{
-    color: white;
-}
-
+/* changes to footer*/
 .footer{
     margin-top: 50px;
 }
@@ -21,6 +19,7 @@
 .footer .card-body p{
     color: white;
 }
+
 .card-footer{
     background-color: #003B2E
 }
@@ -41,6 +40,7 @@
     color: white;
 }
 
+/* wanted to have 2 distinct outlines around card body and card image. */
 .card-img-top{
     outline-color: #003B2E;
     outline-style: solid;
